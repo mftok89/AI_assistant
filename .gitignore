@@ -1,0 +1,11 @@
+# 個人情報・運用データはコミットしない（計画書「確認事項への決定」2026-07-05）
+config/
+memory/
+projects/
+areas/
+archive/
+
+# OS・一時ファイル
+Thumbs.db
+Desktop.ini
+*.tmp
